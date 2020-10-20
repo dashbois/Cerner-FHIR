@@ -1,2 +1,2 @@
 # Cerner-FHIR
-First investigation of the FHIR protocol with Cerner
+Second investigation of the FHIR protocol with Cerner
